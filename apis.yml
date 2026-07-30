@@ -1,4 +1,16 @@
 aid: whereparcel
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/whereparcel.png
 name: WhereParcel
 description: "Unified parcel tracking API across 60+ carriers worldwide (USPS, FedEx, UPS, DHL, etc.)"
 url: https://whereparcel.com/docs

@@ -35,11 +35,14 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Tracking
   - Public APIs
+  - Shipping
+  - Package Tracking
+  - Parcel
+  - Multi-Carrier
 apis:
   - name: WhereParcel
     description: "Unified parcel tracking API across 60+ carriers worldwide (USPS, FedEx, UPS, DHL, etc.)"
     humanURL: https://whereparcel.com/docs
-    baseURL: https://whereparcel.com/docs
     tags:
       - Tracking
     properties:
